@@ -32,15 +32,17 @@ Week 1 (week starting 28 February 2022): Meet your mentor!
   If you're a group, each teammate should complete this assessment individually. This is here to help you set your own personal goals during the program. No need to share your results, but be ready to share your thoughts with your mentor.
 - [ ] Make sure you know when and how you'll be meeting with your mentor.
 
+***
+
 Before Week 2 (week starting 7 March 2022): Cohort Call (Welcome to Open Life Science!)
 - [ ] Attend call or catch up via YouTube
 - [ ] Create an issue on the [OLS-5 GitHub repository](https://github.com/open-life-science/ols-5/issues/new) for your OLS work and share the link to your mentor.
 - [ ] Draft a brief vision statement using your goals
-
   [This lesson](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) from the Open Leadership Training Series (OLTS) might be helpful
-
 - [ ] Leave a comment on this issue with your draft vision statement & be ready to share this on the call
 - [ ] Check the [Syllabus](https://openlifesci.org/ols-5) for notes and connection info for all the cohort calls.
+
+***
 
 Before Week 3 (week starting 14 March 2022): Meet your mentor!
 - [ ] Meet mentor
@@ -52,9 +54,13 @@ Before Week 3 (week starting 14 March 2022): Meet your mentor!
 - [ ] Comment on your issue with your draft Roadmap
 - [ ] Suggest a cohort name at the bottom of the shared notes and vote on your favorite with a +1
 
+***
+
 Before Week 4: Cohort Call (Tooling and roadmapping for Open projects)
 - [ ] Attend call or catch up via YouTube
 - [ ] Look up two other projects and comment on their issues with feedback on their open canvas.
+
+***
 
 Week 5 and later
 - [ ] Meet mentor
@@ -68,32 +74,52 @@ Week 5 and later
 
 This issue is here to help you keep track of work as you start Open Life Science program. Please refer to the [OLS-5 Syllabus](https://openlifesci.org/ols-5) for more detailed weekly notes and assignments past week 4.
 
+***
+
 Week 6 
 - [ ] Attend call or catch up via YouTube
+
+***
 
 Week 7
 - [ ] Meet mentor
 
+***
+
 Week 8
 - [ ] Attend call or catch up via YouTube
+
+***
 
 Week 9
 - [ ] Meet mentor
 
+***
+
 Week 10
 - [ ] Attend call or catch up via YouTube
+
+***
 
 Week 11
 - [ ] Meet mentor
 
+***
+
 Week 12
 - [ ] Attend call or catch up via YouTube
+
+***
 
 Week 13
 - [ ] Meet mentor
 
+***
+
 Week 14
 - [ ] Attend call or catch up via YouTube
+
+***
 
 Week 15
 - [ ] Meet mentor
