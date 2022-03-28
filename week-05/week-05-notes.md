@@ -62,7 +62,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 4 / Biandri / a sunset in a  part of South Africa (Dullstroom) that I like to visit regularly 
 * Name 5 / Mariangela / 
 * Name 6 / Lisanne /
-* Name 7 / Elisee /
+* Name 7 / Elisee / A young sparrow that ended up in the lab.
 * Name 8 / Kim Martin / 
 * Name 9 / Victoria /
 * Name 10 / Malvika / Cherry blossoms and Magnolia, little green parrots
