@@ -59,7 +59,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 1 / Lisanne / Happy with the sunshine while sitting in my new garden for the first time
 * Name 2 / Frederique / 
 * Name 3 / Yo / 
-* * Name 4 / Biandri / a sunset in a  part of South Africa (Dullstroom) that I like to visit regularly 
+* Name 4 / Biandri / a sunset in a  part of South Africa (Dullstroom) that I like to visit regularly 
 * Name 5 / Mariangela / almond and cherry trees all over town
 * Name 6 / Lisanne /
 * Name 7 / Elisee / A young sparrow that ended up in the lab.
