@@ -7,6 +7,7 @@
 * Hosts/Anfitriones: Malvika and Yo
 
 ====
+
 Are you an OLS-5 participant but can’t attend this call? Join us next week!
 The recording from this call will be updated on YouTube (OLS-5 playlist):  https://www.youtube.com/c/OpenLifeSci 
 
@@ -15,7 +16,8 @@ The recording from this call will be updated on YouTube (OLS-5 playlist):  https
 * La grabación de esta llamada se actualizará en YouTube (lista de reproducción OLS-5): https://www.youtube.com/c/OpenLifeSci 
 * Haz preguntas en Slack o reserva un espacio con el equipo de OLS.
 
-===
+====
+
 This is an optional cohort call for folks who are new to GitHub. 
 * If you have previously worked with GitHub, you can still attend the call as a helper.
 * Please contact the Open Life Science team to let them know your interest in co-facilitating the session.
@@ -54,16 +56,16 @@ we will give you a short 1.5 hour GitHub tutorial:
 ## Roll call: The session facilitators will add your name before you edit it.
 
 - *Name / Icebreaker question: Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...*
-* Name 1 /  
-* Name 2 /  
-* Name 4 /  
-* Name 3 /  
-* Name 5 /
-* Name 6 /  
-* Name 7 /   
-* Name 8 / 
-* Name 9 / 
-* Name 10 /
+* Name 1 / Lisanne / 
+* Name 2 / Frederique / 
+* Name 3 / Yo / 
+* Name 4 / Biandri / 
+* Name 5 / Mariangela / 
+* Name 6 / Lisanne /
+* Name 7 / Elisee /
+* Name 8 / Kim Martin / 
+* Name 9 / Victoria /
+* Name 10 / Malvika / 
 * Name 11 / 
 * Name 12 / 
 * Name 13 / 
