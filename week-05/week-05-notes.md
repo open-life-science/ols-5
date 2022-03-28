@@ -1,26 +1,24 @@
 # Week 05: GitHub for Collaboration
 
-    Week 05: GitHub for Collaboration
-    Time zone/Notas con enlace de unión:: https://arewemeetingyet.com/Berlin/2022-03-28/18:00/week-05 - 
-    Website/Sitio web: https://openlifesci.org/ols-5/schedule#week-05
-    Duration/Duración: 90 minutes 
-    Hosts/Anfitriones: Malvika and Yo
+* Week 05: GitHub for Collaboration
+* Time zone/Notas con enlace de unión:: https://arewemeetingyet.com/Berlin/2022-03-28/18:00/week-05 - 
+* Website/Sitio web: https://openlifesci.org/ols-5/schedule#week-05
+* Duration/Duración: 90 minutes 
+* Hosts/Anfitriones: Malvika and Yo
 
 ====
 Are you an OLS-5 participant but can’t attend this call? Join us next week!
-
-    The recording from this call will be updated on YouTube (OLS-5 playlist):  https://www.youtube.com/c/OpenLifeSci 
+The recording from this call will be updated on YouTube (OLS-5 playlist):  https://www.youtube.com/c/OpenLifeSci 
 
 -----
 ¿Eres participante de OLS-5 pero no puedes asistir a esta llamada?
+* La grabación de esta llamada se actualizará en YouTube (lista de reproducción OLS-5): https://www.youtube.com/c/OpenLifeSci 
+* Haz preguntas en Slack o reserva un espacio con el equipo de OLS.
 
-    La grabación de esta llamada se actualizará en YouTube (lista de reproducción OLS-5): https://www.youtube.com/c/OpenLifeSci 
-
-    Haz preguntas en Slack o reserva un espacio con el equipo de OLS.
-
+===
 This is an optional cohort call for folks who are new to GitHub. 
-If you have previously worked with GitHub, you can still attend the call as a helper.
-Please contact the Open Life Science team to let them know your interest in co-facilitating the session.
+* If you have previously worked with GitHub, you can still attend the call as a helper.
+* Please contact the Open Life Science team to let them know your interest in co-facilitating the session.
 
 ====
   
@@ -115,7 +113,7 @@ After the facilitators have demo-ed how to create a minimal website/Git page:
 :pray: Closing
 ---
 
--       Next cohort call: October 20, 11:30-13:00 UTC (see in your time zone: https://arewemeetingyet.com/london/2021-10-20/12:30/week-06)
+- Next cohort call: October 20, 11:30-13:00 UTC (see in your time zone: https://arewemeetingyet.com/london/2021-10-20/12:30/week-06)
                                                                    
 ### GitHub Resources
 
