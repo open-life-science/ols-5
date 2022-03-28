@@ -63,7 +63,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 5 / Mariangela / almond and cherry trees all over town
 * Name 6 / Lisanne /
 * Name 7 / Elisee / A young sparrow that ended up in the lab.
-* Name 8 / Kim Martin / 
+* Name 8 / Kim Martin / trees regrowing from dead-looking trunks after a major fire
 * Name 9 / Victoria /
 * Name 10 / Malvika / Cherry blossoms and Magnolia, little green parrots
 * Name 11 / 
