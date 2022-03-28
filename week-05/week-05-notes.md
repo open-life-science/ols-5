@@ -60,7 +60,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 2 / Frederique / 
 * Name 3 / Yo / 
 * Name 4 / Biandri / 
-* Name 5 / Mariangela / 
+* Name 5 / Mariangela / almond and cherry trees all over town
 * Name 6 / Lisanne /
 * Name 7 / Elisee /
 * Name 8 / Kim Martin / 
