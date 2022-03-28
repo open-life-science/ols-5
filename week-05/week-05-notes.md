@@ -56,7 +56,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 ## Roll call: The session facilitators will add your name before you edit it.
 
 - *Name / Icebreaker question: Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...*
-* Name 1 / Lisanne / 
+* Name 1 / Lisanne / Happy with the sunshine while sitting in my new garden for the first time
 * Name 2 / Frederique / 
 * Name 3 / Yo / 
 * Name 4 / Biandri / 
