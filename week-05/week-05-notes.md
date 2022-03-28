@@ -65,7 +65,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 7 / Elisee /
 * Name 8 / Kim Martin / 
 * Name 9 / Victoria /
-* Name 10 / Malvika / 
+* Name 10 / Malvika / Cherry blossoms and Magnolia, little green parrots
 * Name 11 / 
 * Name 12 / 
 * Name 13 / 
