@@ -64,7 +64,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 6 / Lisanne /
 * Name 7 / Elisee /
 * Name 8 / Kim Martin / 
-* Name 9 / Victoria /
+* Name 9 / Victoria / Bell peppers in my garden are turning red!
 * Name 10 / Malvika / 
 * Name 11 / 
 * Name 12 / 
