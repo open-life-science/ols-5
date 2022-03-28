@@ -59,7 +59,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 1 / Lisanne / 
 * Name 2 / Frederique / 
 * Name 3 / Yo / 
-* Name 4 / Biandri / 
+* Name 4 / Biandri / a sunset in a  part of South Africa (Dullstroom) that I like to visit regularly 
 * Name 5 / Mariangela / 
 * Name 6 / Lisanne /
 * Name 7 / Elisee /
